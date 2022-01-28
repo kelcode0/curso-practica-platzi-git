@@ -52,3 +52,9 @@
     padding: 1em;
 
 }
+#footer
+{
+   background: turquoise;
+   color: white;
+   text-align: center;
+}
